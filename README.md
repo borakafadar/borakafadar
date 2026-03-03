@@ -1,12 +1,41 @@
-## Hello World!
+## Hello World! 👋
 
-- My name is Bora, I am a CS student at Bilkent University. <br/>
+- I'm Bora, a second-year Computer Science student at Bilkent University.
+- I am passionate about software development, from managing self-hosted services and Docker containers to experimenting with game development and local AI models.
+
+- 📝 You can check out my portfolio at [www.borakafadar.com](www.borakafadar.com)
+
+- 📫 How to reach me: **borakafadar[at]gmail.com**
+
+- 📄 Here is my CV: [CV](https://borakafadar.com/assets/files/cv.pdf)
 
 
-## Connect with me:
+### 🛠️ Languages and Tools
 
 <div align="left">
-  <a href="borakafadar@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
+  <img width="16" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="45" alt="unity logo" />
+</div>
+
+
+## 📫 Connect with me:
+
+<div align="left">
+  <a href="mailto:borakafadar@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/bora-kafadar/" target="_blank">
@@ -19,29 +48,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-## Languages and Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo"  />
-  <img width="16" />
-  <!--- <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="45" alt="unity logo"  />  unity --->
-</div>
-
-###
-
-<!--- This is something that I do not need rn
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=borakafadar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=borakafadar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=borakafadar&radius=16&area=true&order=5&bg_color=151515&color=ffffff&title_color=ffffff&line=85bac1&area_color=a3cbd2&point=4e97a0&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
---->
-
-
-
