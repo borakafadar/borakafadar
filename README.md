@@ -3,7 +3,7 @@
 - I'm Bora, a second-year Computer Science student at Bilkent University.
 - I am passionate about software development, from managing self-hosted services and Docker containers to experimenting with game development and local AI models.
 
-- 📝 You can check out my portfolio at [www.borakafadar.com](www.borakafadar.com)
+- 📝 You can check out my portfolio at [www.borakafadar.com](https://www.borakafadar.com)
 
 - 📫 How to reach me: **borakafadar[at]gmail.com**
 
